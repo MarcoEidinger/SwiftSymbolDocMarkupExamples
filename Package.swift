@@ -5,12 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "SwiftSymbolDocMarkupExamples",
-    products: [
-        // Products define the executables and libraries a package produces, and make them visible to other packages.
-        .library(
-            name: "SwiftSymbolDocMarkupExamples",
-            targets: ["SwiftSymbolDocMarkupExamples"]),
-    ],
+    products: [],
     dependencies: [
         .package(url: "https://github.com/apple/swift-docc-plugin", from: "1.0.0")
     ],

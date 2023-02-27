@@ -55,13 +55,17 @@ public struct Basics {
      
      - Important: Not visible in Xcode Quick Help but in DocC generated documentation.
      
-      # This is a Heading 1
+     # This is a Heading 1
+       
+     Content of section with Heading 1
      
-       Meep
-     
-      ## This is a Heading 2
+     ## This is a Heading 2
     
-      Meep
+     Content of section with Heading 2
+     
+     ### This is a Heading 3
+    
+     Content of section with Heading 3
      */
     public func headlines() {}
     

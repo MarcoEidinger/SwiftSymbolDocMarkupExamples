@@ -12,4 +12,4 @@ Provide a comprehensive and up-to-date reference guide for symbol documentation 
 
 ## Visualization
 
->Tip: Read my blog post `Coming Soon` for nice comparison between markup use and its visualization in DoC-generated documentation and Xcode's Quick Help
+>Tip: Read my blog post [The visual reference guide for documenting your Swift code](https://blog.eidinger.info/the-visual-reference-guide-for-documenting-your-swift-code) for nice comparison between markup use and its visualization in DoC-generated documentation and Xcode's Quick Help
